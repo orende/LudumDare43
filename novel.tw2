@@ -1,20 +1,22 @@
-:: toryIncludes <-428,-439>
+:: toryIncludes <-1077,-600>
 style.cssscript.js
 
 
 
-:: onfiguration [twee2] <15,-437>
+
+:: onfiguration [twee2] <-577,-600>
 Twee2::build_config.story_ifid = '41AB7776-D198-40F5-BD54-0493D49DA58C'Twee2::build_config.story_format = 'Snowman'
 
 
 
-:: toryTitle <-210,-437>
+
+:: toryTitle <-827,-600>
 Escape from Earth
 
 
+
 :: Start <207,-179>
-Intro test[[Node2]]
-eller såhär
+Intro test[[Node2]]eller såhär
 <h1>Här är en H1</h1>
 [[Node3]]
 <div id="results" class="text"></div>
@@ -22,29 +24,40 @@ eller såhär
 _.delay(
 function()
 {
-console.log("Tjo!");
-$("#results").text("It has been 5 seconds. Show the text!");
+    console.log("Tjo!");
+    $("#results").text("It has been 5 seconds. Show the text!");
 },
 5000)
 %>
 
 
 
-:: Node2 <-49,142>
-detta är node 2[[Node4]]
+
+
+:: Node2 <94,140>
+detta är node 2
+[[Node4]]
 
 
 
-:: Node3 <430,121>
-detta är node 3[[Answer:Node4|Node4]]
+
+:: Node3 <344,140>
+detta är node 3
+[[Node4|Node4]]
 [[Kool länk!->NewNode]]
 
 
 
-:: Node4 <216,422>
+
+
+:: Node4 <239,450>
 Empty Text
 
 
-:: NewNode <750,127>
+
+:: NewNode <647,-415>
 Hej hej!
+
+:: Kool länk!->NewNode <594,140>
+Empty Text
 
