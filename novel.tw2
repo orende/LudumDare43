@@ -1,5 +1,6 @@
 :: StoryIncludes <-1077,-600>
 style.css
+script.js
 
 :: StoryTitle
 The Blood War
@@ -27,10 +28,9 @@ Twee2::build_config.story_format = 'Snowman'
   </div>
   <button class="next">Next</button>
 </section>
-  ::@include script.js
   <%
   window.addEventListener('load', function() {
-    createTextSequence("#show");
+    window.createTextSequence("#show");
   });
     %>
 
