@@ -1,50 +1,59 @@
 :: StoryIncludes <-1077,-600>
 style.css
 
-:: StoryTitle
+
+:: StoryTitle <-341,-598>
 The Blood War
 
+
 :: Configuration [twee2] <-577,-600>
-Twee2::build_config.story_ifid = '41AB7776-D198-40F5-BD54-0493D49DA58C'
-Twee2::build_config.story_format = 'Snowman'
+Twee2::build_config.story_ifid = '41AB7776-D198-40F5-BD54-0493D49DA58C'Twee2::build_config.story_format = 'Snowman'
+
+
 
 :: Start <207,-179>
-<section id="show">
-  <div>
+<section id="show"><div>
     The War of the Blood Mist Nebula had raged for years, costing countless of lives across the galactic sector.
-  </div>
-  <div>
-    The origins of the war lay in a breakthrough discovery, a scientific quantum leap: the invention of a device allowing the communication with another dimension.
-  </div>
-  <div>
+        </div>
+            <div>
+                The origins of the war lay in a breakthrough discovery, a scientific quantum leap: the invention of a device allowing the communication with another dimension.
+            </div>
+        <div>
     But perhaps the most surprising thing was the responses from the other dimension. A lively interchange took place, and through the cooperation of the two civilizations the trans-dimensional technology was refined and developed. At first, larger amounts of data were sent and received, then energy in various forms and quantities, followed by inanimate matter.
-  </div>
-  <div>
-    Then one day, the first life forms made the trip from the other dimension to ours. The changes this brought upon the human civilization where as profound as they were far-reaching.
-  </div>
-  <div>
-    However, humans are an ever-changing species...
-  </div>
-  <button class="next">Next</button>
+    </div>
+        <div>
+            Then one day, the first life forms made the trip from the other dimension to ours. The changes this brought upon the human civilization where as profound as they were far-reaching.
+        </div>
+    <div>
+        However, humans are an ever-changing species...
+</div>
+    <button class="next">Next</button>
 </section>
-  ::@include script.js
-  <%
-  window.addEventListener('load', function() {
-    createTextSequence("#show");
-  });
-    %>
+
+
+:: include script.js <-824,-605>
+<%window.addEventListener('load', function() {
+createTextSequence("#show");
+});
+%>
+
+
 
 
 :: Node2 <94,140>
-detta är node 2
-[[Node4]]
+detta är node 2[[Node4]]
+
+
 
 :: Node3 <344,140>
-detta är node 3
-[[Node4|Node4]]
+detta är node 3[[Node4|Node4]]
+
+
 
 :: Node4 <239,450>
 Empty Text
 
+
 :: NewNode <647,-415>
 Hej hej!
+
