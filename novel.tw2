@@ -27,20 +27,8 @@ Twee2::build_config.story_format = 'Snowman'
   <div>
     However, humans are an ever-changing species...
   </div>
-  <button id="next">
+  <button class="next">
 </section>
-<%
-var elm = document.querySelector('#show');
-var index = 0;
-elm.childNodes.forEach(function(node) {
-  node.style.display = 'none';
-});
-elm.childNodes[0].style.display = '';
-document.querySelector('#next').addEventListener('click', function(event) {
-  console.log('tjo');
-});
-%>
-
 
 :: Node2 <94,140>
 detta är node 2
