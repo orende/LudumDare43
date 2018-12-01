@@ -1,0 +1,23 @@
+::MyCoolStylesheet [stylesheet]
+
+body {
+  font-size: 23pt;
+  background-color: black;
+  color: #eee;
+}
+
+a {
+  color: #a71b1b;
+}
+
+tw-passage tw-link {
+  color: red;
+}
+.text {
+}
+
+.elm {
+  border-radius: 1em;
+  border: 1px solid white;
+  margin: 1em;
+}
