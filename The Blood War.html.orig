@@ -1,6 +1,10 @@
+<<<<<<< HEAD
+<tw-storydata name="The (color: red)[Blood] War" startnode="1" creator="Twine" creator-version="2.2.1" ifid="8BC30389-EDB7-4885-8BA9-FDEEF6891819" zoom="1" format="Harlowe" format-version="2.1.0" options="" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css"></style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-passagedata pid="1" name="Interlude" tags="" position="858,403.5" size="100,100">The War of the (color: red)[(color: red)[Blood]] Mist Nebula had raged for years, costing countless of lives across the galactic sector. 
+=======
 <tw-storydata name="The Blood War" startnode="1" creator="Twine" creator-version="2.2.1" ifid="8BC30389-EDB7-4885-8BA9-FDEEF6891819" zoom="1" format="Harlowe" format-version="2.1.0" options="" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css">
 </style><script role="script" id="twine-user-script" type="text/twine-javascript">
-</script><tw-passagedata pid="1" name="Interlude" tags="" position="4500,0" size="100,100">The War of the (color: red)[Blood] Mist Nebula had raged for years, costing countless of lives across the galactic sector. 
+</script><tw-passagedata pid="1" name="Interlude" tags="" position="4500,0" size="100,100">The War of the Blood Mist Nebula had raged for years, costing countless of lives across the galactic sector. 
+>>>>>>> 2fd5d7c7429fb8c802787a77a2804aab07291dce
 
 The origins of the war lay in a breakthrough discovery, a scientific quantum leap: the invention of a device allowing the communication with another dimension.
 
@@ -89,9 +93,13 @@ A:
 
 The ship speeds up and your are thrown to the floor by the sudden acceleration. You crawl to one of the many emergency acceleration harnesses and wait. After what seems like an eternity the ship slows down, the immense pull of near light speed weakens its grip on your body. Outside the armored windows you spot an ominous sight... the (color: red)[Blood] Mist Nebula. You have arrived just at the outskirts of it.
 
-Soldier q1: My god... we’ve jumped straight towards the Nebula...
+Soldier 1: My god... we’ve jumped straight towards the Nebula...
 [[GO TO CONVERGENCE POINT 1]]
-</tw-passagedata><tw-passagedata pid="12" name="Detach command section P3" tags="" position="4400,600" size="100,100">The ship speeds up and your are thrown to the floor by the sudden acceleration. You crawl to one of the many emergency acceleration harnesses and wait. After what seems like an eternity the ship slows down, the immense pull of near light speed weakens its grip on your body. Outside the armored windows you spot an ominous sight... the (color: red)[Blood] Mist Nebula. You have arrived just at the outskirts of it.
+<<<<<<< HEAD
+</tw-passagedata><tw-passagedata pid="12" name="Detach command section P3" tags="" position="770,872.5" size="100,100">The ship speeds up and your are thrown to the floor by the sudden acceleration. You crawl to one of the many emergency acceleration harnesses and wait. After what seems like an eternity the ship slows down, the immense pull of near light speed weakens its grip on your body. Outside the armored windows you spot an ominous sight... the (color: red)[Blood] Mist Nebula. You have arrived just at the outskirts of it.
+=======
+</tw-passagedata><tw-passagedata pid="12" name="Detach command section P3" tags="" position="4400,600" size="100,100">The ship speeds up and your are thrown to the floor by the sudden acceleration. You crawl to one of the many emergency acceleration harnesses and wait. After what seems like an eternity the ship slows down, the immense pull of near light speed weakens its grip on your body. Outside the armored windows you spot an ominous sight... the Blood Mist Nebula. You have arrived just at the outskirts of it.
+>>>>>>> 2fd5d7c7429fb8c802787a77a2804aab07291dce
 
 Soldier 1: My god... we’ve jumped straight towards the Nebula...
 
@@ -103,9 +111,17 @@ Ship AI: Warning, detecting loss of the command and control section. Emergency m
 A:
 [[Wait, stop, that will take us straight through the nebula!|Open fire on the bridge P4]]
 [[Abort! Abort! Cancel! Emergency override! Reset! Revert! Don’t do this to me, you piece of trash software!|Open fire on the bridge P4]]
+<<<<<<< HEAD
 [[Heh... hold on to your hat, soldier. This is going to be a bumpy ride...|Open fire on the bridge P4]]</tw-passagedata><tw-passagedata pid="14" name="Open fire on the bridge P4" tags="" position="980,1004.5" size="100,100">The ship speeds up and your are thrown to the floor by the sudden acceleration. You crawl to one of the many emergency acceleration harnesses and wait. After what seems like an eternity the ship slows down, the immense pull of near light speed weakens its grip on your body. Outside the armored windows you spot an ominous sight... the (color: red)[Blood] Mist Nebula. You have arrived just at the outskirts of it.
+=======
+[[Heh... hold on to your hat, soldier. This is going to be a bumpy ride...|Open fire on the bridge P4]]</tw-passagedata><tw-passagedata pid="14" name="Open fire on the bridge P4" tags="" position="4650,800" size="100,100">The ship speeds up and your are thrown to the floor by the sudden acceleration. You crawl to one of the many emergency acceleration harnesses and wait. After what seems like an eternity the ship slows down, the immense pull of near light speed weakens its grip on your body. Outside the armored windows you spot an ominous sight... the Blood Mist Nebula. You have arrived just at the outskirts of it.
+>>>>>>> 2fd5d7c7429fb8c802787a77a2804aab07291dce
 
 Soldier 1: My god... we’ve jumped straight towards the Nebula...
 
 [[GO TO CONVERGENCE POINT 1]]
+<<<<<<< HEAD
+</tw-passagedata></tw-storydata>
+=======
 </tw-passagedata><tw-passagedata pid="15" name="Test Node 1" tags="" position="4200,1150" size="100,100">Dubbelklicka på den här passagen för att ändra den.</tw-passagedata></tw-storydata>
+>>>>>>> 2fd5d7c7429fb8c802787a77a2804aab07291dce
