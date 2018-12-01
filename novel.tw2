@@ -1,13 +1,14 @@
-::StoryIncludes
+:: StoryIncludes <-1077,-600>
 style.css
 script.js
 
-::Configuration [twee2]
-Twee2::build_config.story_ifid = '41AB7776-D198-40F5-BD54-0493D49DA58C'
-Twee2::build_config.story_format = 'Snowman'
 
 ::StoryTitle
 The Blood War
+
+:: Configuration [twee2] <-577,-600>
+Twee2::build_config.story_ifid = '41AB7776-D198-40F5-BD54-0493D49DA58C'
+Twee2::build_config.story_format = 'Snowman'
 
 :: Start <207,-179>
 <section id="show">
@@ -31,11 +32,30 @@ The Blood War
 <%
 var elm = document.querySelector('#show');
 var index = 0;
-elm.childNodes.forEach(node -> {
+elm.childNodes.forEach(function(node) {
   node.style.display = 'none';
 });
 elm.childNodes[0].style.display = '';
 document.querySelector('#next').addEventListener('click', function(event) {
+  console.log('tjo');
 });
-
 %>
+
+
+:: Node2 <94,140>
+detta är node 2
+[[Node4]]
+
+:: Node3 <344,140>
+detta är node 3
+[[Node4|Node4]]
+[[Kool länk!->NewNode]]
+
+:: Node4 <239,450>
+Empty Text
+
+:: NewNode <647,-415>
+Hej hej!
+
+:: Kool länk!->NewNode <594,140>
+Empty Text
