@@ -42,10 +42,7 @@ A:
 [[Close the bulkheads and detach command and control section of the ship.|Detach command section P1]]
 [[Open a comm-channel to the other ships in the squadron. Order them to open fire... on our bridge.|Open fire on the bridge P1]]
 [[We’ll lose them in the nebula.|Lose them in the nebula P1]]
-[[I… I don’t know.]]
-[[Del av en större skvadron? Ensamt skepp? Försöker de fly eller försöker de stanna och slåss? ]]
-
-
+[[I… I don’t know.|Do not know]]
 
 :: Forget the fuel restrictions <-2027,-527>
 Soldier 1: Yes sir! (picks up comm-piece) All fuel restrictions are now voided! Full speed ahead! Set thrusters to 100% burn!
@@ -112,12 +109,6 @@ A:
 [[Don’t worry too much about it. All those myths about the Nebula are just that: myths!|lose them in the nebula P2]]
 
 
-:: I… I don’t know. <-777,-527>
-Empty Text
-
-:: Del av en större skvadron? Ensamt skepp? Försöker de fly eller försöker de stanna och slåss?  <-527,-527>
-Empty Text
-
 :: GO TO CONVERGENCE POINT 1 <-1801,939>
 Empty Text
 
@@ -177,4 +168,7 @@ The ship speeds up and your are thrown to the floor by the sudden acceleration. 
 
 Soldier 1: My god... we’ve jumped straight towards the Nebula...
 [[GO TO CONVERGENCE POINT 1]]
+
+:: Do not know <-780,-527>
+Empty Text
 
