@@ -1,10 +1,11 @@
-::MyCoolScript [script]
-
+<%
 function createTextSequence(elmId) {
   var elm = document.querySelector(elmId);
   var index = 0;
-  console.log(elm);
+  console.log('elmId: ', elmId);
+  console.log('elm: ', elm);
 }
+%>
 /*
 elm.childNodes.forEach(function(node) {
   node.style.display = 'none';
