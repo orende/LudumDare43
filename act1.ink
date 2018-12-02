@@ -1,5 +1,7 @@
+# theme: dark
+
 ===Interlude===
-The War of the Blood Mist Nebula had raged for years, costing countless of lives across the galactic sector. # CLASS: blood
+The War of the <span class="blood">Blood</span> Mist Nebula had raged for years, costing countless of lives across the galactic sector. 
 The origins of the war lay in a breakthrough discovery, a scientific quantum leap: the invention of a device allowing the communication with another dimension.
 
 But perhaps the most surprising thing was the responses from the other dimension. A lively interchange took place, and through the cooperation of the two civilizations the trans-dimensional technology was refined and developed. At first, larger amounts of data were sent and received, then energy in various forms and quantities, followed by inanimate matter.
@@ -28,7 +30,7 @@ Soldier 1: The enemy has almost breached the outer hull! They’ve launched drop
 
 Soldier 1: "Yes sir! (picks up comm-piece) All fuel restrictions are now voided! Full speed ahead! Set thrusters to 100% burn!"
 
-The ship speeds up and your are thrown to the floor by the sudden acceleration. You crawl to one of the many emergency acceleration harnesses and wait. After what seems like an eternity the ship slows down, the immense pull of near light speed weakens its grip on your body. Outside the armored windows you spot an ominous sight... the Blood Mist Nebula. You have arrived just at the outskirts of it.
+The ship speeds up and your are thrown to the floor by the sudden acceleration. You crawl to one of the many emergency acceleration harnesses and wait. After what seems like an eternity the ship slows down, the immense pull of near light speed weakens its grip on your body. Outside the armored windows you spot an ominous sight... the <span class="blood">Blood</span> Mist Nebula. You have arrived just at the outskirts of it. 
 
 Soldier 1: "There’s an incoming transmission from the bridge... (he listens for a while) Sir, the CnC reports that the enemy dropships were dislodged by the sudden acceleration. We’re safe... well, for now at least."
 
@@ -159,6 +161,7 @@ Soldier: Don’t make me say it again, sir. You’re going to lead the charge ag
 \(Drop your weapon to the ground\)
     ->next4
 =next4
+# CLEAR
 In a split second, you see the flash of his weapon’s muzzle flash as his enhanced reflexes allows him to react to your action with superhuman speed. Moments later, you find yourself lying on the floor, a burning hole in your torso. Your vision is quickly fading. The regretful expression on the soldier’s face burns itself into your retinas as the plasma wound burns your body to a pile of ashes.
 
 # IMAGE: Dude.png
@@ -166,7 +169,7 @@ In a split second, you see the flash of his weapon’s muzzle flash as his enhan
 ->DONE
 
 ===speedup===
-The ship speeds up and your are thrown to the floor by the sudden acceleration. You crawl to one of the many emergency acceleration harnesses and wait. After what seems like an eternity the ship slows down, the immense pull of near light speed weakens its grip on your body. Outside the armored windows you spot an ominous sight... the Blood Mist Nebula. You have arrived just at the outskirts of it.
+The ship speeds up and your are thrown to the floor by the sudden acceleration. You crawl to one of the many emergency acceleration harnesses and wait. After what seems like an eternity the ship slows down, the immense pull of near light speed weakens its grip on your body. Outside the armored windows you spot an ominous sight... the <span class="blood">Blood</span> Mist Nebula. You have arrived just at the outskirts of it. 
 
 Soldier 1: "My god... we’ve jumped straight towards the Nebula..."
 ->->
@@ -175,14 +178,14 @@ Soldier 1: "My god... we’ve jumped straight towards the Nebula..."
 # CLEAR
 B: "Once we had drifted through the nebula for a week, what was it that actually caused the mutiny?"
 
-A: "The mutiny was caused by the blood, that’s what."
+A: "The mutiny was caused by the <span class="blood">blood</span>, that’s what." 
 
-B: "The blood? It’s just blood, what could it possibly make people do?"
+B: "The <span class="blood">blood</span>? It’s just <span class="blood">blood<\span>, what could it possibly make people do?" 
 
 
 * See things
     ->see_things
-* Drink blood
+* Drink <span class="blood">blood</span>
     ->space_vampires
 * I’d rather not say...
     ->END
@@ -199,7 +202,7 @@ B: "The blood? It’s just blood, what could it possibly make people do?"
 With all due respect, Sir.
 I know you’ve been captain for many years, and I bet you’ve seen things out there that cannot be explained. Things that would make the groundhuggers question their sanity.
 
-It was a couple of days after we had arrived in the nebula. The blood shining through the window tinted everything red. I had just woken up, and was on my way to the bridge.
+It was a couple of days after we had arrived in the nebula. The <span class="blood">blood</span> shining through the window tinted everything red. I had just woken up, and was on my way to the bridge. 
 Rounding a corner, just outside my field of view I saw a shape which I recognized immediately, but couldn’t possibly be here.
 
 People (dead or on Earth) appearing on the spaceship1. Peoples loved ones, etc.
@@ -208,7 +211,7 @@ The crew knows they're hallucinations created by the cloud, and because of that 
 
 ===space_vampires===
 
-We soon learned just how the nebula earned its name. We couldn't believe it at first, but once the ship became drenched in what was unmistakably blood there was no denying it. 
+We soon learned just how the nebula earned its name. We couldn't believe it at first, but once the ship became drenched in what was unmistakably <span class="blood">blood</span> there was no denying it.  
 It covered the windows and the light that filtered through the armored windows bathed the inside of the ship in an eerie glow. We noticed that it had begun seeping through the cracks in the damaged hull once the smell hit us.
 
 You: I thought I would get used to this, but as the days pass it just keeps bothering me more and more. I can taste the iron as every time I open my mouth and hear the sound of dripping as soon as it’s quiet. I was almost relieved when one of the men approached me with an alarmed expression on his face. 
@@ -221,7 +224,7 @@ Mook: I think it would be better if I showed you.
 
 There is body a dead body on the floor. It is strangely pale. 
 Investigate
-Despite not finding any wounds or other signs of damage, the body is seemingly drained of all blood. How bloody ironic. 
+Despite not finding any wounds or other signs of damage, the body is seemingly drained of all <span class="blood">blood</span>. How <span class="blood">blood<\span>y ironic.  
 
 
 
@@ -235,7 +238,7 @@ H:
 
 =2_1
 
-Not everyone showed up. There are three crew members missing. The bloodless body is displayed on a table in the middle of the room.
+Not everyone showed up. There are three crew members missing. The <span class="blood">blood</span>less body is displayed on a table in the middle of the room.  
 
 You conduct a thorough medical examination, which takes a considerable amount of time when done on every remaining crewmember. While it shows that your crewmembers are under a lot of psychological pressure, there are no other signs that anything is wrong. 
 
@@ -254,9 +257,9 @@ A183RT: "I am detecting two bodies in Engineering bay C with no life signs. I am
 You: "That would place him in this room. Something is wrong."
 You: "Squad, target the ceiling and fire at will."
 
-The room flares up with the flashes and noise of gunfire as the ceiling is riddled with bullets. A body crashes through the roof and lands on the floor in a spray of blood. It is the last missing crew member who manages to take a last, gurgling breath.
+The room flares up with the flashes and noise of gunfire as the ceiling is riddled with bullets. A body crashes through the roof and lands on the floor in a spray of <span class="blood">blood</span>. It is the last missing crew member who manages to take a last, gurgling breath. 
 
-Upon closer inspection you discover that his face is covered in dried blood, most of it gathered around his mouth. 
+Upon closer inspection you discover that his face is covered in dried <span class="blood">blood</span>, most of it gathered around his mouth. 
 ->END
 
 ===lose_hope===
@@ -307,11 +310,11 @@ The marine eventually lets you take the gun from his hands and then slowly slump
 
 6_1_1_2
 
-The marines reacts to your lunge explosively, but too late. You end up wrestling for the gun. You manage to fire off a few shots during the fight, but in a sudden burst of strength the marine flings you away with an overhead throw. As you pick yourself up from the bloody floor, you have just enough time to see him pick the gun up and aim it at you.
+The marines reacts to your lunge explosively, but too late. You end up wrestling for the gun. You manage to fire off a few shots during the fight, but in a sudden burst of strength the marine flings you away with an overhead throw. As you pick yourself up from the <span class="blood">blood</span>y floor, you have just enough time to see him pick the gun up and aim it at you. 
 
 Marine 2: "Sacrifices have to be made. Sir."
 
-The muzzle flash colors the world around you blood red and your consciousness crumbles away.
+The muzzle flash colors the world around you <span class="blood">blood</span> red and your consciousness crumbles away. 
 
 [GAME OVER]
 ->END
@@ -339,7 +342,7 @@ As you come into point blank range, you make a swift roundhouse-kick at his weap
     ->6_1_2_2
 
 =6_1_2_1
-The marine falls to the bloodied ground, his life rapidly leaving him. You call for a med-evac, and make your way back to your quarters after giving a quick report. Hopefully this sacrifice will keep your subordinates in line for the time being.
+The marine falls to the <span class="blood">blood</span>ied ground, his life rapidly leaving him. You call for a med-evac, and make your way back to your quarters after giving a quick report. Hopefully this sacrifice will keep your subordinates in line for the time being.  
 ->convergence_point_2
 c
 =6_1_2_2
