@@ -1,5 +1,9 @@
 ===convergence_point_1===
 # CLEAR
+<h1>ACT 2</h1> 
+
++ [...]
+-
 B: "Once we had drifted through the nebula for a week, what was it that actually caused the mutiny?"
 
 A: "The mutiny was caused by the <span class="blood">blood</span>, that’s what." 
