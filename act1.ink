@@ -1,4 +1,9 @@
 # theme: dark
+===Act1Start===
+B: Why did she have to die?
+A: Sacrifices must be made.
+
++ "..."->Interlude
 
 ===Interlude===
 The War of the <span class="blood">Blood</span> Mist Nebula had raged for years, costing countless of lives across the galactic sector. 
