@@ -67,7 +67,8 @@ He readies his weapon and the two of you storm off to the elevators. You reach t
 
 * The AI speaks
 -
-<img class"ai" src="ai.png" />
+# CLEAR
+<img class="ai" src="ai.png" />
 <span class="ai-talk">"Intrusion detected in the navigation systems. Activating countermeasures... fatal system error, unloading countermeasure subsystem to avoid complete kernel failure."<span>
 <span class="ai-talk">"Hyperdrive activation initiated... access denied. Canceling hyperdrive activation in 3...2...1... KeyboardInterruptSignal received. Cancelling cancellation. Hyperdrive activated, all personnel prepare for emergency acceleration."</span>
 * Your prepare.
@@ -86,9 +87,9 @@ A series of small explosions rock the ship as the bulkheads are detached. Commun
 * The silence is broken by the ship AI.
 -
 # CLEAR
-<img src="ai.png" />
+<img class="ai" src="ai.png" />
 
-<span class"ai" class="ai-talk"> "Warning, detecting loss of the command and control section. Emergency maneuvers will be undertaken to return the ship to the main fleet for evacuation and recovery. Plotting a direct course to the ship..."</span>
+<span class="ai-talk"> "Warning, detecting loss of the command and control section. Emergency maneuvers will be undertaken to return the ship to the main fleet for evacuation and recovery. Plotting a direct course to the ship..."</span>
 
 * "Wait, stop, that will take us straight through the nebula!"
 * "Abort! Abort! Cancel! Emergency override! Reset! Revert! Don’t do this to me, you piece of malware!"
