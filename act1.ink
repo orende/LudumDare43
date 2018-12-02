@@ -1,3 +1,9 @@
+===Act1Start===
+B: Why did she have to die?
+A: Sacrifices must be made.
+
++ "..."->Interlude
+
 ===Interlude===
 The War of the Blood Mist Nebula had raged for years, costing countless of lives across the galactic sector. # CLASS: blood
 The origins of the war lay in a breakthrough discovery, a scientific quantum leap: the invention of a device allowing the communication with another dimension.
