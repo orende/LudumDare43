@@ -182,8 +182,5 @@ Things go downhill fast. There’s no denying that this is a mutiny.
 H: "A183RT, shut the hell up."
 ->END
 
-===convergence_point_2
-TODO: insert content
-->END
 
 
