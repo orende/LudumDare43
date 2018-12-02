@@ -89,9 +89,9 @@ Chief: Trust me, Captain, if there was another way, I wouldn’t be standing her
 H:
 + Prepare a protective suit[.], Chief. I’m going down there.
     -> protective_suit
+    
 + My officers are right, going in there is suicide. We must try to repair the terminal on the bridge.
     -> repair_the_terminal
-->END
 
 ===protective_suit===
 //1.1
@@ -114,18 +114,18 @@ Engineer 1: Captain, we have a situation! There is a build-up of blood between t
 Engineer 2: But if we don’t finish the repairs and restart the reactor, the ship will be dead in the water!
 
 H:
-There must be another away. Evacuate everyone from the section now.
-We need to restart the reactor at any cost. Begin the reactivation sequence.
-
-1.1.2
++ There must be another away. Evacuate everyone from the section now.
+    -> evacuate_everyone
++ We need to restart the reactor at any cost. Begin the reactivation sequence.
+    -> restart_the_reactor
+===evacuate_everyone===
+TODO Content
+-> DONE
+=== restart_the_reactor ===
+//1.1.2
 
 You give the order the orders to finish the repairs. As they are completed, you order the engineers to begin the reactivation sequence after which you step up to the control system terminal and input your biometric override code. The system goes quiet as the sequence begins. The reactor core groans and churns as it starts up once more.
 
 A feeling of serenity descends on you as the rest of engineers panic. You know that you’ve bought the rest of the crew and the ship several days of time, which should help them reach the edge of the nebula.
 
 And more importantly, you’ve saved the ship’s most valuable cargo: the first living being to have crossed over into this dimension from another.
-->END
-
-===repair_the_terminal===
-
-->END
