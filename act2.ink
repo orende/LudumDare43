@@ -68,7 +68,7 @@ Not everyone showed up. There are three crew members missing. The <span class="b
 You conduct a thorough medical examination, which takes a considerable amount of time when done on every remaining crewmember. While it shows that your crewmembers are under a lot of psychological pressure, there are no other signs that anything is wrong. 
 
 I need to find out if the other three have suffered the same fate. What do I do?
-* Order some of the soldiers to grab their rifles and go look for them in groups of three
+* Order some of the marines to grab their rifles and go look for them in groups of three
 * Ask A183RT to give the location and status on the three missing crew members.
 -
 
