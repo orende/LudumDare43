@@ -11,6 +11,8 @@
 
 ===Interlude===
 The War of the <span class="blood">Blood</span> Mist Nebula had raged for years, costing countless of lives across the galactic sector. 
+* [Next]
+-
 The origins of the war lay in a breakthrough discovery, a scientific quantum leap: the invention of a device allowing the communication with another dimension.
 * [Next]
 -
@@ -44,9 +46,11 @@ Soldier 1: "The enemy has almost breached the outer hull! They’ve launched dro
 # CLEAR
 
 Soldier 1: "Yes sir! (picks up comm-piece) All fuel restrictions are now voided! Full speed ahead! Set thrusters to 100% burn!"
-
+* [Next]
+-
 The ship speeds up and your are thrown to the floor by the sudden acceleration. You crawl to one of the many emergency acceleration harnesses and wait. After what seems like an eternity the ship slows down, the immense pull of near light speed weakens its grip on your body. Outside the armored windows you spot an ominous sight... the <span class="blood">Blood</span> Mist Nebula. You have arrived just at the outskirts of it. 
-
+* [Next]
+-
 Soldier 1: "There’s an incoming transmission from the bridge... (he listens for a while) Sir, the CnC reports that the enemy dropships were dislodged by the sudden acceleration. We’re safe... well, for now at least."
 
 * "What do you mean “for now”?"
@@ -82,6 +86,8 @@ Soldier 1: But sir, what about the rest of the command staff?
 * \(shrug\)
 -
 Soldier 1: "You... I don’t know what to say... A183RT, activate the detachment procedures for the command section of the ship now."
+*[Next]
+-
 A series of small explosions rock the ship as the bulkheads are detached. Communication from the bridge reaches a panicked crescendo and abruptly goes silent.
 
 * The silence is broken by the ship AI.
@@ -108,12 +114,15 @@ Soldier 1: "Sir, what about the all the rest of the command staff!?"
 * \(shrug\)
 -
 Soldier: You’re a real piece of shit, you know that...? You’re going to get your ass court-martialed for this... sir. Forget it, I’m not giving the order. You do it.
-
+* [Next]
+-
 He holds out the comm-device to you. You take it from him and start speaking:
-
+* [Next]
+-
 "Attention all ships. Issuing immediate firing order at our current position. Target the bridge. I repeat, target the bridge. We are carrying important data that must not fall into enemy hands."
 "Mayday, mayday, the enemy has taken our bridge! They’re going to ram us into the closest ship! Target our bridge with everything you’ve got, nooow!"
-
+* [Next]
+-
 A silence falls over the ship for a few moments... and then the ship is rocked by explosions as the other ships in the squadron open fire on the bridge. Communications from the bridge quickly cease, and so does the boarding alerts.
 * Suddenly, the Ship AI begins an public announcement:
 -
@@ -149,7 +158,8 @@ Soldier 1: "Sir, you... you can’t be serious! The enemy marines are going to b
 * "You don’t know... You don’t know what I’ve seen...."
 -
 The soldier’s face goes through many emotions. Finally, something seems to snap in him. He lowers his weapon... and aims it at you.
-
+*[Next]
+-
 Soldier 1: "I don’t give a space rats ass about what you’ve seen. You’re going to take that gun, you're going to set it to full-auto and you’re going to send every man and woman we’ve got in there until the enemy is beaten to a pulp... sir."
 
 * "Where are you aiming that gun, soldier?"
@@ -173,7 +183,8 @@ In a split second, you see the flash of his weapon’s muzzle flash as his enhan
 The ship speeds up and your are thrown to the floor by the sudden acceleration. You crawl to one of the many emergency acceleration harnesses and wait. After what seems like an eternity the ship slows down, the immense pull of near light speed weakens its grip on your body. Outside the armored windows you spot an ominous sight... the <span class="blood">Blood</span> Mist Nebula. You have arrived just at the outskirts of it. 
 
 
-* Soldier 1: "My god... we’ve jumped straight towards the Nebula..."
+Soldier 1: "My god... we’ve jumped straight towards the Nebula..."
+* [Next]
 -
 ->->
 
