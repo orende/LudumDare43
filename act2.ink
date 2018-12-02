@@ -36,6 +36,8 @@ The crew knows they're hallucinations created by the cloud, and because of that 
 ===space_vampires===
 
 We soon learned just how the nebula earned its name. We couldn't believe it at first, but once the ship became drenched in what was unmistakably <span class="blood">blood</span> there was no denying it.  
+* [Next]
+-
 It covered the windows and the light that filtered through the armored windows bathed the inside of the ship in an eerie glow. We noticed that it had begun seeping through the cracks in the damaged hull once the smell hit us.
 * [Next]
 -
@@ -54,9 +56,8 @@ There is body a dead body on the floor. It is strangely pale.
 * [Investigate]
 -
 Despite not finding any wounds or other signs of damage, the body is seemingly drained of all <span class="blood">blood</span>. How <span class="blood">blood</span>y ironic.  
-
-
-
+* [Next]
+-
 This was no accident. What should I do?
 
 H: 
@@ -148,9 +149,9 @@ The Marine’s face flushes with anger as he hears your words. You slowly step f
 *"You don’t have the guts to kill a superior officer."
 -
 You lock eyes with the marine. The man grips his weapon with two hands, hands shaking from the tension. He grits his teeth through the visor in his helmets, and gives off a primal scream rising in volume.
-
+* [Next]
+-
 You walk even closer.
-
 *DO IT MARINE! SHOW ME YOUR DETERMINATION!
 -
 As you come into point blank range, you make a swift roundhouse-kick at his weapon, sending it flying. As you land, you pull your weapon and aim it at the stunned marine.

@@ -55,7 +55,7 @@ Call your most trusted subordinates and order them to escort him up to your quar
 Having found no additional rations in the newly-opened cargo and after realizing that they won’t get any answers about the mysterious freeloader out of you, the crowd disperses and the guest is escorted away.
 
 + [CONTINUE]
-
+-
 You return to the bridge.
 
 The lull in tension after the opening of the cryopod in the cargo bay does not last long.
@@ -91,6 +91,7 @@ H:
     -> protective_suit
 + My officers are right, going in there is suicide. We must try to repair the terminal on the bridge.
     -> repair_the_terminal
+->END
 
 ===protective_suit===
 //1.1
@@ -123,3 +124,8 @@ You give the order the orders to finish the repairs. As they are completed, you 
 A feeling of serenity descends on you as the rest of engineers panic. You know that you’ve bought the rest of the crew and the ship several days of time, which should help them reach the edge of the nebula.
 
 And more importantly, you’ve saved the ship’s most valuable cargo: the first living being to have crossed over into this dimension from another.
+->END
+
+===repair_the_terminal===
+
+->END
