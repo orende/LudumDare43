@@ -200,10 +200,20 @@ span.blood {
   height: 90vh;
 }
 
+
 .ai-talk {
   font-family: 'Share Tech Mono', monospace;
 }
 
 img.ai {
   max-height: 90vh;
+}
+.chr1 {
+  color: yellow;
+}
+.chr2 {
+  color: #6aa0da;
+}
+.chr3 {
+  color: green;
 }
