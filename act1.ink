@@ -1,9 +1,12 @@
 # theme: dark
 ===Act1Start===
-B: Why did she have to die?
-A: Sacrifices must be made.
+<h1 class="center">The Blood War</h1>
+<img src="Blood_mist_nebula.png" class="start title-screen" />
+"Why did she have to die?" # CLASS: center # CLASS: start # CLASS: one
+"Sacrifices must be made." # CLASS: center # CLASS: start # CLASS: two
 
-+ "..."->Interlude
+
+* "..."->Interlude
 
 ===Interlude===
 The War of the <span class="blood">Blood</span> Mist Nebula had raged for years, costing countless of lives across the galactic sector. 
@@ -14,6 +17,11 @@ But perhaps the most surprising thing was the responses from the other dimension
 Then one day, the first life forms made the trip from the other dimension to ours. The changes this brought upon the human civilization where as profound as they were far-reaching.
 
 However, humans are an ever-changing species...
+
+* "Continue"->soldier1
+
+
+=soldier1
 
 Soldier 1: The enemy has almost breached the outer hull! They’ve launched dropships with marines preparing to board us! What are your orders?
 * "Forget the fuel restrictions, there is no need to save fuel if we die here."
