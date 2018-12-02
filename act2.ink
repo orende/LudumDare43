@@ -4,7 +4,7 @@ B: "Once we had drifted through the nebula for a week, what was it that actually
 
 A: "The mutiny was caused by the <span class="blood">blood</span>, that’s what." 
 
-B: "The <span class="blood">blood</span>? It’s just <span class="blood">blood<\span>, what could it possibly make people do?" 
+B: "The <span class="blood">blood</span>? It’s just <span class="blood">blood</span>, what could it possibly make people do?" 
 
 
 * See things
@@ -42,7 +42,7 @@ Mook: I think it would be better if I showed you.
 
 There is body a dead body on the floor. It is strangely pale. 
 Investigate
-Despite not finding any wounds or other signs of damage, the body is seemingly drained of all <span class="blood">blood</span>. How <span class="blood">blood<\span>y ironic.  
+Despite not finding any wounds or other signs of damage, the body is seemingly drained of all <span class="blood">blood</span>. How <span class="blood">blood</span>y ironic.  
 
 
 
@@ -61,7 +61,7 @@ I need to find out if the other three have suffered the same fate. What do I do?
 * Ask A183RT to give the location and status on the three missing crew members.
 -
 
-A183RT: "I am detecting two bodies in Engineering bay C with no life signs. I am detecting one body in motion approximately 5 meters from your location, life signs unclear. "
+<span class="ai-talk">"I am detecting two bodies in Engineering bay C with no life signs. I am detecting one body in motion approximately 5 meters from your location, life signs unclear. "</span>
 
 You: "That would place him in this room. Something is wrong."
 You: "Squad, target the ceiling and fire at will."
@@ -157,9 +157,9 @@ The container of contraband in the cargo hold is unlocked and secretly distribut
 
 Things go downhill fast. There’s no denying that this is a mutiny. 
 
-Ship AI: A total of 37 out of 44 ship sections are in lockdown. That represents 84.0909091% of the ship’s sections. At the current rate, the critical ship functions will cease all functions in 3.5745 standard days. The recommended course of action is to immediately take the affected sections out of lockdown and-
+<span class="ai-talk">A total of 37 out of 44 ship sections are in lockdown. That represents 84.0909091% of the ship’s sections. At the current rate, the critical ship functions will cease all functions in 3.5745 standard days. The recommended course of action is to immediately take the affected sections out of lockdown and-</span>
 
-H: A183RT, shut the hell up.
+H: "A183RT, shut the hell up."
 ->END
 
 ===convergence_point_2

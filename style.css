@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,700|Quattrocento:700');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,700|Quattrocento:700|Share+Tech+Mono');
 
 body {
   font-family: 'Open Sans', sans-serif;
@@ -198,4 +198,12 @@ span.blood {
 }
 .title-screen {
   height: 90vh;
+}
+
+.ai-talk {
+  font-family: 'Share Tech Mono', monospace;
+}
+
+img.ai {
+  max-height: 90vh;
 }

@@ -6,17 +6,20 @@
 "Sacrifices must be made." # CLASS: center # CLASS: start # CLASS: two
 
 
-* "..."
+* [...]
 ->Interlude
 
 ===Interlude===
 The War of the <span class="blood">Blood</span> Mist Nebula had raged for years, costing countless of lives across the galactic sector. 
 The origins of the war lay in a breakthrough discovery, a scientific quantum leap: the invention of a device allowing the communication with another dimension.
-
+* [Next]
+-
 But perhaps the most surprising thing was the responses from the other dimension. A lively interchange took place, and through the cooperation of the two civilizations the trans-dimensional technology was refined and developed. At first, larger amounts of data were sent and received, then energy in various forms and quantities, followed by inanimate matter.
-
+* [Next]
+-
 Then one day, the first life forms made the trip from the other dimension to ours. The changes this brought upon the human civilization where as profound as they were far-reaching.
-
+* [Next]
+-
 However, humans are an ever-changing species...
 
 * [Continue]
@@ -62,12 +65,12 @@ Soldier 1: "Yes sir!"
 
 He readies his weapon and the two of you storm off to the elevators. You reach the section of the hull that’s being breached and await the first breakthrough of the boarders. Your commands to rally the other marines aboard the ship are effective and you lead a successful of defense of this section of the ship.
 
-* However...
+* The AI speaks
 -
-<img src="ai.png" />
+<img class"ai" src="ai.png" />
 <span class="ai-talk">"Intrusion detected in the navigation systems. Activating countermeasures... fatal system error, unloading countermeasure subsystem to avoid complete kernel failure."<span>
 <span class="ai-talk">"Hyperdrive activation initiated... access denied. Canceling hyperdrive activation in 3...2...1... KeyboardInterruptSignal received. Cancelling cancellation. Hyperdrive activated, all personnel prepare for emergency acceleration."</span>
-
+* Your prepare.
 ->speedup->convergence_point_1
 ===detach_command_section===
 # CLEAR
@@ -85,7 +88,7 @@ A series of small explosions rock the ship as the bulkheads are detached. Commun
 # CLEAR
 <img src="ai.png" />
 
-<span class="ai-talk"> "Warning, detecting loss of the command and control section. Emergency maneuvers will be undertaken to return the ship to the main fleet for evacuation and recovery. Plotting a direct course to the ship..."</span>
+<span class"ai" class="ai-talk"> "Warning, detecting loss of the command and control section. Emergency maneuvers will be undertaken to return the ship to the main fleet for evacuation and recovery. Plotting a direct course to the ship..."</span>
 
 * "Wait, stop, that will take us straight through the nebula!"
 * "Abort! Abort! Cancel! Emergency override! Reset! Revert! Don’t do this to me, you piece of malware!"
@@ -114,7 +117,7 @@ A silence falls over the ship for a few moments... and then the ship is rocked b
 * Suddenly, the Ship AI begins an public announcement:
 -
 # CLEAR
-<img src="ai.png" />
+<img class"ai" src="ai.png" />
 <span class="ai-talk">"Warning, detecting loss of the command and control section. Emergency maneuvers will be undertaken to return the ship to the main fleet for evacuation and recovery. Plotting a direct course to the ship..."</span>
 
 * "Wait, stop, that will take us straight through the nebula!"
@@ -168,6 +171,8 @@ In a split second, you see the flash of his weapon’s muzzle flash as his enhan
 ===speedup===
 The ship speeds up and your are thrown to the floor by the sudden acceleration. You crawl to one of the many emergency acceleration harnesses and wait. After what seems like an eternity the ship slows down, the immense pull of near light speed weakens its grip on your body. Outside the armored windows you spot an ominous sight... the <span class="blood">Blood</span> Mist Nebula. You have arrived just at the outskirts of it. 
 
-Soldier 1: "My god... we’ve jumped straight towards the Nebula..."
+
+* Soldier 1: "My god... we’ve jumped straight towards the Nebula..."
+-
 ->->
 
