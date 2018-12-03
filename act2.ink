@@ -4,18 +4,18 @@
 
 + [...]
 -
-B: "Once we had drifted through the nebula for a week, what was it that actually caused the mutiny?"
+B: "Once we had drifted through the nebula for a week, what was it that actually caused the mutiny?"# CLASS: chr1
 
-A: "The mutiny was caused by the <span class="blood">blood</span>, that’s what." 
+A: "The mutiny was caused by the <span class="blood">blood</span>, that’s what." # CLASS: chr3
 
-B: "The <span class="blood">blood</span>? It’s just <span class="blood">blood</span>, what could it possibly make people do?" 
+B: "The <span class="blood">blood</span>? It’s just <span class="blood">blood</span>, what could it possibly make people do?"# CLASS: chr1 
 
 
-* See things
+* See things # CLASS: chr3
     ->see_things
-* Drink <span class="blood">blood</span>
+* Drink <span class="blood">blood</span> # CLASS: chr3
     ->space_vampires
-* Lose hope
+* Lose hope # CLASS: chr3
     ->lose_hope
 
 
@@ -61,8 +61,8 @@ Despite not finding any wounds or other signs of damage, the body is seemingly d
 This was no accident. What should I do?
 
 H: 
-* "I’ll need to gather everyone in the mission briefing room and give a full report on the situation. Then I’ll order everyone on the ship to undergo medical examinations to find out who is the anomaly."
-* "Keep the events secret and put the body through an airlock. Whatever caused this event would likely cause a panic among the crew. We can’t risk the hit to morale. I’ll gather some of my most trustworthy subordinates and have them investigate in secret."
+* "I’ll need to gather everyone in the mission briefing room and give a full report on the situation. Then I’ll order everyone on the ship to undergo medical examinations to find out who is the anomaly."# CLASS: chr3
+* "Keep the events secret and put the body through an airlock. Whatever caused this event would likely cause a panic among the crew. We can’t risk the hit to morale. I’ll gather some of my most trustworthy subordinates and have them investigate in secret."# CLASS: chr3
 -
 Not everyone showed up. There are three crew members missing. The <span class="blood">blood</span>less body is displayed on a table in the middle of the room.  
 
@@ -100,9 +100,9 @@ You scan through the document. Morale on the ship is critically low. The crew me
 -
 Marine 1: "It’s a real mess out there. Everyone’s at the end of their ropes. What are your orders?"
  
-* We’re in desperate need of good news. Which means we either need to get ourselves out of this mess... or start fabricating the news.
-* Gather up the crewmen who’re in the brig and take them to the airlock. We’re going to set an example to make sure no one else gets out of line.
-* There’s a section of the cargo hold where we store illegal contraband. Psychoactive stimulants mostly. Issue them to Internal Security.
+* We’re in desperate need of good news. Which means we either need to get ourselves out of this mess... or start fabricating the news.# CLASS: chr3
+* Gather up the crewmen who’re in the brig and take them to the airlock. We’re going to set an example to make sure no one else gets out of line.# CLASS: chr3
+* There’s a section of the cargo hold where we store illegal contraband. Psychoactive stimulants mostly. Issue them to Internal Security.# CLASS: chr3
 -
 You bury your sense of morals deep inside of yourself and make your way to the communications center, ordering all of the crew members to leave. You then work with your trusted close subordinates to create a trail of fake messages from HQ, using root access from the Ship AI and clever editing of previous messages to make them look and feel authentic.
 * [Next]
@@ -118,13 +118,13 @@ One night, as you are walking down the corridors of the ships lower sections, on
 -
 Marine 2: "How can you even sleep at night with what you’ve done?"
 
-* "Everything we did, we did for the greater good. You can walk away from this now and I’ll overlook it."
-* "I’ve done worse. It hasn’t stopped me yet. You need to get over it, now. Showing weakness will destroy you from the inside."
+* "Everything we did, we did for the greater good. You can walk away from this now and I’ll overlook it."# CLASS: chr3
+* "I’ve done worse. It hasn’t stopped me yet. You need to get over it, now. Showing weakness will destroy you from the inside."# CLASS: chr3 
 -
 Marine 2: (he lowers his weapon somewhat, seeming unsure of what to do next)
 
 H:
-*Give me the gun.
+*Give me the gun. # CLASS: chr3
     ->6_1_1_2
 *\(lunge for the gun\)
     ->6_1_1_1
