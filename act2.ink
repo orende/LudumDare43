@@ -66,6 +66,8 @@ H:
 -
 Not everyone showed up. There are three crew members missing. The <span class="blood">blood</span>less body is displayed on a table in the middle of the room.  
 
+* [Next]
+-
 You conduct a thorough medical examination, which takes a considerable amount of time when done on every remaining crewmember. While it shows that your crewmembers are under a lot of psychological pressure, there are no other signs that anything is wrong. 
 
 I need to find out if the other three have suffered the same fate. What do I do?
