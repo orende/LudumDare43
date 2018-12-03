@@ -4,23 +4,23 @@
 
 + [Next]
 -
-B: So everything that happened led up to that point?
+"So everything that happened led up to that point?" # CLASS chr1
 + [Next]
 -
-A: That’s right. We were faced with dire straits, only one misstep away from certain doom. Both ship and crew was in a terrible shape, things coming apart at the seams, nerves frayed and supplies low. That’s when the crisis hit.
+"That’s right. We were faced with dire straits, only one misstep away from certain doom. Both ship and crew was in a terrible shape, things coming apart at the seams, nerves frayed and supplies low. That’s when the crisis hit."  # CLASS chr3
 + [Next]
 -
-B: You mean when...
-*   The reactor core section of the ship was flooded?
+"You mean when... # CLASS chr1
+*   The reactor core section of the ship was flooded?" # CLASS chr1
     ~ temp NAME_OF_CRISIS= "reactor core <span class=\"blood\">blood</span> flooded"
 -
-A: Yes, the {NAME_OF_CRISIS} came right out of nowhere, suddenly wreaking havoc on the ship right in the middle of the nebula.
+"Yes, the {NAME_OF_CRISIS} came right out of nowhere, suddenly wreaking havoc on the ship right in the middle of the nebula." # CLASS chr2
 + [Next]
 -
-B: And what was it that led to the Captain to sacrifice herself?
+And what was it that led to the Captain to sacrifice herself?   # CLASS chr1
 + [Next]
 -
-A: Well, in some way, it was always inevitable, wasn’t it?
+"Well, in some way, it was always inevitable, wasn’t it?"  # CLASS chr2
 
 //=== mysterious_cargo ===
 // OBS: sektionen härifrån och ned till [CONTINUE] ska återanvändas för alla storylines i denna akt.
@@ -33,7 +33,8 @@ One day, you get an urgent communication from Internal Security, who are asking 
 It’s the container that you were specifically sent into this sector of space to retrieve. The one thing that could be the key to ending this war once and for all.
 + [Next]
 -
-Marine 3: Sir, the crowd demanding that the container is opened is getting unruly. What are your orders?
+The Marine says, 
+"Sir, the crowd demanding that the container is opened is getting unruly. What are your orders?"
 + "Hold them off for now. I’m coming down there stat."
 -
 You run for the elevators and slam in the code for the cargo bay into the keypanel. The lift moves at what feels like a glacial pace. Once the doors open, you find that the one thing that was not allowed to happen has already come to pass.
@@ -50,7 +51,6 @@ The crowd now turns to you with equally puzzled expressions over what they have 
 -
 What do you do?
 
-A:
 * "Well, now what? Are you going to eat him? Get back to work!"
     The crew members look embarrassed and lets him pass through the crowd.
 * "Call an emergency team down from sick-bay now!"
@@ -69,6 +69,8 @@ The lull in tension after the opening of the cryopod in the cargo bay does not l
 All of a sudden, the sirens signalling a code red emergency drown the deck in noise.
 + [Next]
 -
+# CLEAR
+<img class="ai" src="ai.png" />
 Ship AI: <span class="ai-talk">"Warning. Flooding detected in the reactor core section. Recommending an immediate damage assessment."</span>
 
 * "Get me the Engineering Chief now!"
@@ -76,26 +78,27 @@ Ship AI: <span class="ai-talk">"Warning. Flooding detected in the reactor core s
 
 Moments later, the chief storms into the bridge, trailed by several high-ranking engineers.
 
-Chief: "Captain! The blood flooding has cut of access ducts to the reactor! If this goes on, we won’t be able to keep the anti-matter transclusion field from becoming destabilized!"
+"Captain! The blood flooding has cut of access ducts to the reactor! If this goes on, we won’t be able to keep the anti-matter transclusion field from becoming destabilized!"
 
 * "Stop spouting technobabble and tell me what the hell we need to do to stop it from happening!"
 -
 
-Chief: "We need to get an engineering team down there as soon as possible, but-"
+"We need to get an engineering team down there as soon as possible, but-"
 
 * "Gather your best men and get ready to move."
 -
 
 After tense waiting, the chief gets back to you with a report.
 
-Chief: "Sir, my engineers have suffered some casualties, but they’ve managed to make their way to the reactor core. However, the control system has gotten stuck in a kernel panic. We need your personal biometric override code to be input. However, the remote terminal for the control system has malfunctioned, most likely because of the blood leakage, so you need to personally input the code at the terminal down in the reactor core section."
+"Sir, my engineers have suffered some casualties, but they’ve managed to make their way to the reactor core. However, the control system has gotten stuck in a kernel panic. We need your personal biometric override code to be input. However, the remote terminal for the control system has malfunctioned, most likely because of the blood leakage, so you need to personally input the code at the terminal down in the reactor core section."
 + [Next]
 -
 Hearing this, the rest of the bridge crew freezes up.
 
-Bridge "Officer: Captain, with all due respect, the risks are far too great."
+"Captain, with all due respect, the risks are far too great.", the Bridge Offices says.
 
-Chief: "Trust me, Captain, if there was another way, I wouldn’t be standing here suggesting this."
+The Chief weights in.
+"Trust me, Captain, if there was another way, I wouldn’t be standing here suggesting this."
 + [Next]
 -
 + "Prepare a protective suit[.], Chief. I’m going down there."
@@ -123,7 +126,6 @@ Engineer 1: "Captain, we have a situation! There is a build-up of blood between 
 
 Engineer 2: "But if we don’t finish the repairs and restart the reactor, the ship will be dead in the water!"
 
-H:
 + "This ship is doomed, but we don't have to follow it. Call for a general evacuation."
     -> evacuate_everyone
 + "We need to restart the reactor at any cost. Begin the reactivation sequence."
