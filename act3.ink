@@ -93,6 +93,10 @@ H:
 + My officers are right, going in there is suicide. We must try to repair the terminal on the bridge.
     -> repair_the_terminal
 
+===repair_the_terminal===
+TODO content
+->epilogue
+
 ===protective_suit===
 //1.1
 As you head out of the bridge, you tap the shoulder of your Executive Officer, and whisper in his ear.
@@ -120,6 +124,7 @@ H:
     -> restart_the_reactor
 ===evacuate_everyone===
 TODO Content
+->epilogue
 -> DONE
 === restart_the_reactor ===
 //1.1.2
@@ -129,3 +134,4 @@ You give the order the orders to finish the repairs. As they are completed, you 
 A feeling of serenity descends on you as the rest of engineers panic. You know that you’ve bought the rest of the crew and the ship several days of time, which should help them reach the edge of the nebula.
 
 And more importantly, you’ve saved the ship’s most valuable cargo: the first living being to have crossed over into this dimension from another.
+->epilogue
