@@ -28,7 +28,7 @@ However, humans are an ever-changing species...
 -
 
 Marine: "The enemy has almost breached the outer hull! They’ve launched dropships with marines preparing to board us! What are your orders?"
-* "Forget the fuel restrictions, there is no need to save fuel if we die here."
+* "Forget the fuel restrictions, there is no need to save fuel if we die here." # CLASS: .char1
     ->forget_the_fuel_restrictions
 * "Well, what are you standing around for? Get your gun and let’s go!"
     ->get_yer_gun
@@ -53,14 +53,14 @@ The ship speeds up and your are thrown to the floor by the sudden acceleration. 
 -
 Marine: "There’s an incoming transmission from the bridge... (he listens for a while) Sir, the CnC reports that the enemy dropships were dislodged by the sudden acceleration. We’re safe... well, for now at least."
 
-* "What do you mean “for now”?"
+* "What do you mean “for now”?"# CLASS: chr2
 -
 Marine: "According to the sitrep, we suffered severe damage to several ship systems in the attack. We’ve lost all function the hyperdrive steering systems. We’re currently drifting towards the Nebula."
-* "Why?"
+* "Why?"# CLASS: chr2
 -
 Marine: "We’re still unsure about the exact reasons. The Ship AI is currently analyzing the situation. The complete extent of the damage is still unknown, but it’s highly likely that they were compounded by the sudden hyperdrive activation."
 
-* "Alright, keep me posted on further updates as soon as they are available. I will do a survey of the damage."
+* "Alright, keep me posted on further updates as soon as they are available. I will do a survey of the damage."# CLASS: chr2
 ->convergence_point_1
 
 ===get_yer_gun===
@@ -81,9 +81,9 @@ He readies his weapon and the two of you storm off to the elevators. You reach t
 # CLEAR
 Marine: But sir, what about the rest of the command staff?
 
-* "It’s tough, but they knew what they were getting into. We have to make sacrifices for the survival of the rest of the ship."
-* "That doesn’t matter now. DO IT!"
-* \(shrug\)
+* "It’s tough, but they knew what they were getting into. We have to make sacrifices for the survival of the rest of the ship."# CLASS: chr2
+* "That doesn’t matter now. DO IT!"# CLASS: chr2
+* \(shrug\)# CLASS: chr2
 -
 Marine: "You... I don’t know what to say... A183RT, activate the detachment procedures for the command section of the ship now."
 *[Next]
@@ -97,9 +97,9 @@ A series of small explosions rock the ship as the bulkheads are detached. Commun
 
 <span class="ai-talk"> "Warning, detecting loss of the command and control section. Emergency maneuvers will be undertaken to return the ship to the main fleet for evacuation and recovery. Plotting a direct course to the ship..."</span>
 
-* "Wait, stop, that will take us straight through the nebula!"
-* "Abort! Abort! Cancel! Emergency override! Reset! Revert! Don’t do this to me, you piece of malware!"
-* "Heh... hold on to your hat, marine. This is going to be a bumpy ride..."
+* "Wait, stop, that will take us straight through the nebula!"# CLASS: chr2
+* "Abort! Abort! Cancel! Emergency override! Reset! Revert! Don’t do this to me, you piece of malware!"# CLASS: chr2
+* "Heh... hold on to your hat, marine. This is going to be a bumpy ride..."# CLASS: chr2
 -
 ->speedup->convergence_point_1
 
@@ -109,9 +109,9 @@ A series of small explosions rock the ship as the bulkheads are detached. Commun
 # CLEAR
 Marine: "Sir, what about the all the rest of the command staff!?"
 
-* "It’s tough, but they knew what they were getting into. We have to make sacrifices for the survival of the rest of the ship."
-* "That doesn’t matter now. DO IT!"
-* \(shrug\)
+* "It’s tough, but they knew what they were getting into. We have to make sacrifices for the survival of the rest of the ship."# CLASS: chr2
+* "That doesn’t matter now. DO IT!"# CLASS: chr2
+* \(shrug\)# CLASS: chr2
 -
 Marine: You’re a real piece of shit, you know that...? You’re going to get your ass court-martialed for this... sir. Forget it, I’m not giving the order. You do it.
 * [Next]
@@ -141,30 +141,30 @@ A silence falls over the ship for a few moments... and then the ship is rocked b
 # CLEAR
 Marine: In the Nebula? Sir, are you out of your mind!?
 
-* "Shut the hell up and do it. That’s a direct order."
-* "We’ve got no other choice. If we stay here, we’re dead."
-* "Don’t worry too much about it. All those myths about the Nebula are just that: myths!"
-* "The marine looks at you with a mix of hate and disgust, but eventually gives the order."
+* "Shut the hell up and do it. That’s a direct order."# CLASS: chr2
+* "We’ve got no other choice. If we stay here, we’re dead."# CLASS: chr2
+* "Don’t worry too much about it. All those myths about the Nebula are just that: myths!"# CLASS: chr2
+* "The marine looks at you with a mix of hate and disgust, but eventually gives the order."# CLASS: chr2
 -
 ->speedup->convergence_point_1
 ===dont_know===
 # CLEAR
 Marine: "What do you mean you don’t know!? We can’t just- (BOOM) Holy shit, they’re already here..."
 
-* "I... I need some time alone..."
+* "I... I need some time alone..."# CLASS: chr2
 -
 Marine: "Sir, you... you can’t be serious! The enemy marines are going to be here any moment now! We need a battle plan and we need it NOW!"
 
-* "You don’t know... You don’t know what I’ve seen...."
+* "You don’t know... You don’t know what I’ve seen...."# CLASS: chr2
 -
 The marine’s face goes through many emotions. Finally, something seems to snap in him. He lowers his weapon... and aims it at you.
 *[Next]
 -
 Marine: "I don’t give a space rats ass about what you’ve seen. You’re going to take that gun, you're going to set it to full-auto and you’re going to send every man and woman we’ve got in there until the enemy is beaten to a pulp... sir."
 
-* "Where are you aiming that gun, marine?"
-* "I’m ordering you to leave me the hell alone! That’s a direct order!"
-* \(draw your gun and aim it the marine\)
+* "Where are you aiming that gun, marine?"# CLASS: chr2
+* "I’m ordering you to leave me the hell alone! That’s a direct order!"# CLASS: chr2
+* \(draw your gun and aim it the marine\)# CLASS: chr2
 -
 Marine: "Don’t make me say it again, sir. You’re going to lead the charge against the boarders... or die right here in a “friendly-fire accident”. I’m giving you 10 seconds to give the order. Ten... nine... eight..."
 
